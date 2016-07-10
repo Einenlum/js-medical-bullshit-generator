@@ -1,0 +1,30 @@
+p.how-to {
+    font-size: 0.9em;
+    font-weight: bold;
+    margin-top: 20px;
+    -webkit-border-radius: 12;
+    -moz-border-radius: 12;
+    border-radius: 12px;
+    color: #ffffff;
+    background: #26465c;
+    padding: 7px 10px 7px 10px;
+    text-decoration: none;
+    cursor: default;
+}
+
+p.how-to:hover {
+    background: #235a7d;
+    text-decoration: none;
+}
+
+.warning {
+    color: white;
+}
+
+ul.copyright li {
+    font-size: 0.8em;
+}
+
+img.github-logo {
+    width: 15%;
+}
